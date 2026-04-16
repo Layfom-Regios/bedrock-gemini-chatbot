@@ -1,0 +1,1 @@
+print("Create KB via AWS Console (recommended for now)")
